@@ -1,4 +1,4 @@
-Shader "Unlit/04_Phong"
+Shader "Unlit/02-01_Phong"
 {
 
 	Properties
